@@ -1,0 +1,6 @@
+User 22
+   101 ('Heavy Metal (1981)', '08-Mar-1981')                          4.885
+   184 ('Army of Darkness (1993)', '01-Jan-1993')                     4.781
+   13  ('Mighty Aphrodite (1995)', '30-Oct-1995')                     4.766
+   314 ('3 Ninjas: High Noon At Mega Mountain (1998)', '01-Jan-1997') 4.749
+   170 ('Cinema Paradiso (1988)', '01-Jan-1988')                      4.715
